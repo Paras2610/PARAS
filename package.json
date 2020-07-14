@@ -1,0 +1,23 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "my course",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paras2610/PARAS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paras2610/PARAS/issues"
+  },
+  "homepage": "https://github.com/Paras2610/PARAS#readme"
+}
